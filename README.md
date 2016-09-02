@@ -9,9 +9,9 @@ A round can also end after 2 minutes, or if the player correctly chooses all cit
 This game offers some users rankings.
 
 #Data
-This repo does not provide any data, but this is the recommended data format you should follow if you do not want to modidy the code:
-countries.txt --> each line: [COUNTRYCODE] COUNTRY NAME
-cities.txt --> each line: [COUNTRYCODE] CITY NAME
+This repo does not provide any data, but this is the recommended data format you should follow if you do not want to modify the code:
+* countries.txt --> in each line: [COUNTRYCODE] COUNTRY NAME
+* cities.txt --> in each line: [COUNTRYCODE] CITY NAME
 
 #License
 This project is under the MIT License. Please, read the LICENSE.md for detailed information.
